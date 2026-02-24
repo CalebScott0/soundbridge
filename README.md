@@ -1,13 +1,38 @@
-# SoundBridge
+# SoundBridge – Producer & Artist Matching Platform
 
-Match based web app to pair producers with artists looking to take their raw project to the next level. Artists submit a raw sound bit that is categorized and matched to potential producers who match their _vibe_.
+SoundBridge is a full-stack web application that connects music producers with artists through a match-based discovery system.
 
-```
-npm install firebase react-router-dom
-npm install -D sass
-npm install tailwindcss @tailwindcss/vite
-npm install -D @types/node
-npm install @google/generative-ai
+Artists submit categorized audio clips, and producers can browse and connect based on style and project needs.
 
-npm run dev
-```
+---
+
+## Highlights
+
+- Match-based discovery system  
+- Categorized audio submissions  
+- Full-stack architecture  
+- Built for SparkHacks 2026  
+
+---
+
+## Overview
+
+SoundBridge was created to simplify collaboration between music producers and artists.  
+
+Instead of relying on cold outreach, the platform allows artists to upload structured samples and producers to discover talent through organized browsing.
+
+Created for Sparkhacks 2026 at University of Illinois Chicago, a 24 hour team based development marathon!
+
+---
+
+## Screenshot
+
+![SoundBridge Screenshot]()
+
+---
+
+## Tech Stack
+
+Frontend:
+- React  
+- TypeScript  

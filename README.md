@@ -36,4 +36,11 @@ Created for Sparkhacks 2026 at University of Illinois Chicago, a 24 hour hackath
 
 Frontend:
 - React  
-- TypeScript  
+- TypeScript
+- Tailwind CSS
+
+#### Install dependencies:
+``` npm install ```
+
+#### Run development server:
+``` npm start ```

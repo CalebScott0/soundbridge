@@ -1,5 +1,7 @@
 # SoundBridge – Producer & Artist Matching Platform
 
+[Product Demo on Devpost](https://devpost.com/software/soundbridge)
+
 SoundBridge is a full-stack web application that connects music producers with artists through a match-based discovery system.
 
 Artists submit categorized audio clips, and producers can browse and connect based on style and project needs.

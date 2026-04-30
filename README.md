@@ -56,6 +56,8 @@ Firebase was a challenge because of the issues we were running into while trying
 
 Help the small artist community with soundbridge.
 
+---
+
 ## Tech Stack
 
 Frontend:
